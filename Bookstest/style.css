@@ -1,0 +1,29 @@
+#result {
+    padding: 10px;
+    display: inline-flex;
+
+}
+
+input {
+align-content: center;   
+}
+
+form {
+ padding: 10px 10px;  
+}
+
+nav {
+  padding: 10px 10px;  
+}
+
+header button {
+
+}
+
+
+.card {
+text-align: center;
+background-color: green;
+}
+
+
